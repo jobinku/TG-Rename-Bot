@@ -2,7 +2,9 @@ class Translation(object):
     START_TEXT = """Hello,
 This is a Telegram Rename Bot!
 
-<b>Please send me any Telegram file and reply to that file to /rename New Name.mkv</b>
+Please send me any Telegram file and reply to that file to /rename New Name.mkv
+
+Channel : © @MOVIES_NIGHTG
 
 /help for more details.."""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
@@ -31,7 +33,7 @@ This is a Telegram Rename Bot!
 
 --------
 
-Support Group : © @SpEcHlDe @TGBotsZ"""
+Support Group : © @MOVIENIGHTGROUP,@MOVIES_NIGHTG"""
     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply to a Telegram media to `/rename New Name.extension` with custom thumbnail support.."
     ABUSIVE_USERS = "You are not allowed to use this bot. If you think this is a mistake, please check /me to remove this restriction."
     FREE_USER_LIMIT_Q_SZE = """Cannot Process.
